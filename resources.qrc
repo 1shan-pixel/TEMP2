@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/songs"/>
+    <qresource prefix="/">
+        <file>songs/moonlight.mp3</file>
+    </qresource>
+</RCC>
